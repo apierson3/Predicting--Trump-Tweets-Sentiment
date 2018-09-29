@@ -1,1 +1,0 @@
-# Predicting #Trump Tweets Sentiment
